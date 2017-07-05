@@ -1,0 +1,8 @@
+/target/classes/META-INF/MANIFEST.MF
+/target/classes/META-INF/maven/br.com.jaraguacnc/licensegenerator/pom.properties
+/target/classes/META-INF/maven/br.com.jaraguacnc/licensegenerator/pom.xml
+/target/classes/br/com/jaraguacnc/licensegenerator/App.class
+/target/test-classes/br/com/jaraguacnc/licensegenerator/AppTest.class
+/.settings/*.prefs
+/target
+/.settings
